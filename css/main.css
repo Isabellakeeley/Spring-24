@@ -10,7 +10,7 @@ body{
 }
 .meandmore {
     display: flex;
-    justify-content: center;
+    align-items: center;
     gap: 30px;
     border: 1px solid black;
     margin: 10px;
