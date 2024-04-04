@@ -8,7 +8,7 @@ body{
 .photo{
     width: 300px;
 }
-.green-cat-row {
+.meandmore {
     display: flex;
     align-items: center;
     gap: 30px;
